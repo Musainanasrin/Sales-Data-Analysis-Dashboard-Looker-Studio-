@@ -1,4 +1,4 @@
-**Sales Data Analysis Dashboard (Looker Studio)**
+#  **Sales Data Analysis Dashboard (Looker Studio)**
 
 Live Dashboard
 https://lookerstudio.google.com/reporting/9f4b5543-554e-48dd-8e63-0b8b3756071c
