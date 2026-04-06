@@ -3,7 +3,7 @@
 Live Dashboard
 https://lookerstudio.google.com/reporting/9f4b5543-554e-48dd-8e63-0b8b3756071c
 
-**Project Overview**
+##  **Project Overview**
 
 This project analyzes "e-commerce sales data" to uncover insights related to product performance, customer behavior, and sales trends.
 
@@ -11,7 +11,7 @@ An "interactive dashboard" was built using "Google Looker Studio", enabling stak
 
 ---
 
-**Objectives**
+##  **Objectives**
 
 * Identify top-performing products
 * Analyze sales trends over time
@@ -21,7 +21,7 @@ An "interactive dashboard" was built using "Google Looker Studio", enabling stak
 * Evaluate category-wise performance
 
 ---
- **Dataset Used**
+##  **Dataset Used**
 
 * **Dataset Name:** `order_data.csv`
 * **Key Fields:**
@@ -35,7 +35,7 @@ An "interactive dashboard" was built using "Google Looker Studio", enabling stak
   * `is_valid`, `is_gross`, `is_net`
 
 ---
- **Tools & Technologies**
+##  **Tools & Technologies**
 
 *  Google Looker Studio
 *  CSV Dataset
@@ -43,7 +43,7 @@ An "interactive dashboard" was built using "Google Looker Studio", enabling stak
 *  Calculated Fields
 
 ---
- **Key Features**
+##  **Key Features**
 
 * Interactive filters (SKU, Date range)
 * Cross-filtering between charts
@@ -53,7 +53,7 @@ An "interactive dashboard" was built using "Google Looker Studio", enabling stak
 
 ---
 
- **Tasks & Visualizations**
+##  **Tasks & Visualizations**
 
 ---
 
